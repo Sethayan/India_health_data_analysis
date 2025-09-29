@@ -2,3 +2,4 @@
 beautifulsoup4
 request
 django
+virtual box
