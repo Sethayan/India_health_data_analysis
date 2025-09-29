@@ -1,5 +1,7 @@
 //Added by Mohit
 beautifulsoup4
-requests
+request
 django
+virtual box
 tests
+
