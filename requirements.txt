@@ -1,2 +1,3 @@
 //Added by Mohit
 beautifulsoup4
+requests
